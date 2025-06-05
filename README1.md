@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Intelligent-Expense-Tracker
+A smart expense tracking app built with React Native and Expo. It intelligently categorizes expenses, backtracks and suggests previous entries, and understands user messages to auto-fill or verify transactions.
+>>>>>>> b4a4049258d2592d67f9d43c312528c07c6ba44e
