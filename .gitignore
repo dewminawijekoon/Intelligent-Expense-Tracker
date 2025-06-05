@@ -37,3 +37,6 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+#Excess Readme files
+read_me_ReactNative.md
