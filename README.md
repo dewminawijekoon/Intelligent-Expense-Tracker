@@ -1,10 +1,10 @@
 # Intelligent-Expense-Tracker
-A smart expense tracking app which intelligently categorizes expenses, backtracks and suggests previous entries, and understands user messages to auto-fill or verify transactions.
+A smart offline expense tracking app which intelligently categorizes expenses, backtracks and suggests previous entries, and understands user messages to auto-fill or verify transactions.
 
 ## Core Architecture
 
 **Frontend**: React Native with Expo for cross-platform development
-**Backend**: Node.js/Express with MongoDB or PostgreSQL for data persistence (Proposed)
+**Backend**: Node.js with Expo-SQLite
 **Real-time Processing**: Background services for SMS parsing and categorization
 **AI/ML**: Integration with services like OpenAI API or local NLP models for intelligent categorization
 
